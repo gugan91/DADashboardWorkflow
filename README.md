@@ -18,7 +18,7 @@ A lightweight internal dashboard system built to log daily check-ins, track work
 - Amazon QuickSight
 
 ## Use Case
-Designed to improve annotation process visibility and accountability. Used by ML Data Associates and leadership to track productivity and work patterns.
+Designed to improve annotation process visibility and accountability. Used to track productivity and work patterns.
 
 ## Author
 Gugan Loganathan – [GitHub](https://github.com/gugan91)
